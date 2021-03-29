@@ -1,4 +1,9 @@
-### Hi there 👋
+# introduce.
+-세종대학교 컴퓨터공학과 21학번
+-금융 인공지능 비서를 만들고 싶습니다:)
+
+# Activity.
+-앞으로 채워 나갈 곳!
 
 <!--
 **seong-yeol02/seong-yeol02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
