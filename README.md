@@ -4,7 +4,7 @@
 - SAI 인공지능 동아리 가입
 
 ### Activity.
--앞으로 채워 나갈 곳!
+-panner 제작중
 
 ### Interest.
 - 인공지능
