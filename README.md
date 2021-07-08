@@ -3,7 +3,7 @@
 - SAI 인공지능 동아리 가입
 
 ### Activity.
--planner 제작중
+-맞춤 planner 제작중
 
 ### Interest.
 - 인공지능
