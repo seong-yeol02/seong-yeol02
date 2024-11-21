@@ -28,7 +28,10 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=yeo-li&custom_title=yeo-li's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+     <div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladmstn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=D7C3F1&text_color=fff&title_color=D7C3F1&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeo-li&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
