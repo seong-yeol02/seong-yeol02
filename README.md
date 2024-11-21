@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요:) 아키텍트가 되고싶은 백엔드 개발자 입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 세종대학교 컴퓨터공학과에 진행중인 박성열입니다. <br> 현재 백엔드 개발자로 성장하기 위해 여러 공부를 진행중입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 세종대학교 컴퓨터공학과에 재학중인 박성열입니다. <br> 현재 백엔드 개발자로 성장하기 위해 여러 공부를 진행중입니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -29,10 +29,10 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
      <div align="center">
+  <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladmstn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=D7C3F1&text_color=fff&title_color=D7C3F1&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeo-li&layout=donut&bg_color=180,000000,&title_color=000000&text_color=000000" width=38% />
 </a>    
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeo-li&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+     </div> 
     </div>
     
