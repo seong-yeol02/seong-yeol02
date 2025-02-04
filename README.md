@@ -32,7 +32,8 @@
   <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeo-li&layout=donut&bg_color=180,000000,&title_color=000000&text_color=000000" width=38% />
-</a>    
+</a>
+      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인의 백준 ID)](https://solved.ac/yeo-li/)
      </div> 
     </div>
     
