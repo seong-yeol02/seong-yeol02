@@ -10,6 +10,15 @@
 
 ---
 
+## 📊 Stats
+<div align="center">
+    <a href="https://solved.ac/yeoli">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoli">
+    </a>
+</div>
+
+---
+
 ## ⚡ Tech Stack
 > **주로 사용하는 기술 스택들입니다.**
 
@@ -32,19 +41,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </p>
-
----
-
-## 📊 Stats
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeo-li&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" width="45%" />
-    </a>
-    <br>
-    <a href="https://solved.ac/yeoli">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoli">
-    </a>
-</div>
 
 ---
 
